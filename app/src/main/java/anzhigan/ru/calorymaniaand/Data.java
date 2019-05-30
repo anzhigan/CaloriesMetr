@@ -15,10 +15,10 @@ public class Data {
     public int getWidth() {
         return width;
     }
+
     public String getGender() {
         return gender;
     }
-
 
     public void setAge(int age) {
         this.age = age;
@@ -31,7 +31,6 @@ public class Data {
     public void setWidth(int width) {
         this.width = width;
     }
-
 
     public void setGender(String gender) {
         this.gender = gender;

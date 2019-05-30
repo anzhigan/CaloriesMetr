@@ -22,6 +22,4 @@ public class Gender extends AppCompatActivity implements Assembly {
         startActivity(intent);
     }
 
-
-
 }
